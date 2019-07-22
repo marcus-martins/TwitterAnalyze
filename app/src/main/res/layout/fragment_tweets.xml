@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+  <android.support.v7.widget.RecyclerView
+      android:id="@+id/tweetsList"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:layout_margin="3dp" />
+
+  <ImageView
+      android:id="@+id/emptyView"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:paddingBottom="160dp"
+      android:scaleType="center"
+      android:tint="@color/gray_color"
+      android:src="@drawable/ic_error_outline"
+      android:visibility="gone" />
+</RelativeLayout>

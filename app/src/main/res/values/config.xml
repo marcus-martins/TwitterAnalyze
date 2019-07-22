@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="twitter_api_url">https://api.twitter.com/</string>
+    <string name="twitter_api_key">#DESCUBRA</string>
+
+    <string name="google_api_url">https://language.googleapis.com/</string>
+    <string name="google_api_key">#DESCUBRA</string>
+</resources>

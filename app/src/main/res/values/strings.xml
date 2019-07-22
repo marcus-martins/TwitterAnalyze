@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Twitter Analyze Kotlin</string>
+
+    <string name="action_refresh">Refresh</string>
+
+    <string name="failure_network_connection">No Network Connection.</string>
+    <string name="failure_server_error">Server Error</string>
+
+    <string name="neutral_toast">&#032;&#032;&#032; &#x1f610; &#160; NEUTRAL</string>
+    <string name="positive_toast">&#032;&#032;&#032; &#x1f600; &#160; POSITIVE </string>
+    <string name="negative_toast">&#032;&#032;&#032; &#x1f614; &#160; NEGATIVE</string>
+    <string name="go_button">GO</string>
+    <string name="error_message">Error on loading tweets. Please try again.</string>
+    <string name="error_analyze">Error on analyzing tweet. Please try again.</string>
+
+    <string name="search_screen_title">Search Twitter Account</string>
+    <string name="tweets_screen_title">Tweets</string>
+</resources>

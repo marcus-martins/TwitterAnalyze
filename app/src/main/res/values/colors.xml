@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Base colors-->
+    <color name="colorPrimary">#3B4657</color>
+    <color name="colorPrimaryDark">#2B333F</color>
+    <color name="colorAccent">#03A9F4</color>
+
+    <color name="neutral_color">#a9a9a9</color>
+    <color name="positive_color">#D39F04</color>
+    <color name="negative_color">#397be6</color>
+    <color name="snackbar_text_color">#000000</color>
+
+    <color name="white_color">#FFFFFF</color>
+    <color name="gray_color">#efe9e5</color>
+    <color name="activity_search_background_color">#3B4657</color>
+    <color name="twitter_icon_color">#03A9F4</color>
+</resources>
